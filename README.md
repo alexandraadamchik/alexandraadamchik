@@ -1,34 +1,42 @@
-Web Development Portfolio
+```markdown
+# Web Development Portfolio
+
 👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed a full-time 15-month training program in web development. Here's an overview of my skills and experiences:
 
-Skills
-Frontend:
+## Skills
 
-Proficient in HTML, CSS, and modern frameworks.
-Programming:
+- **Frontend:**
+  - Proficient in HTML, CSS, and modern frameworks.
 
-Solid foundation in JavaScript.
-React:
+- **Programming:**
+  - Solid foundation in JavaScript.
 
-Experience in Bootstraping React apps.
-Fullstack:
+- **React:**
+  - Experience in Bootstraping React apps.
 
-Developed a MERN stack e-commerce application.
-Version Control:
+- **Fullstack:**
+  - Developed a MERN stack e-commerce application.
 
-Used Git and version control for collaborative projects.
-Projects
-Portfolio Website:
+- **Version Control:**
+  - Used Git and version control for collaborative projects.
 
-Showcasing skills and notable projects.
-Task Tracker (React):
+## Projects
 
-Dynamic task management application.
-MERN E-commerce App:
+1. **Portfolio Website:**
+   - Showcasing skills and notable projects.
 
-Fullstack e-commerce application development.
-Education
-DCI Berlin:
-Completed a full-time 15-month training program in Web Development.
-Contact
-Let's connect! Reach out to me on LinkedIn or Twitter. Excited to continue building amazing things! 🚀
+2. **Task Tracker (React):**
+   - Dynamic task management application.
+
+3. **MERN E-commerce App:**
+   - Fullstack e-commerce application development.
+
+## Education
+
+- **DCI Berlin:**
+  - Completed a full-time 15-month training program in Web Development.
+
+## Contact
+
+Let's connect! Reach out to me on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile). Excited to continue building amazing things! 🚀
+```
