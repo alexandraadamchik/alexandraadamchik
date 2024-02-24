@@ -1,7 +1,10 @@
+Certainly! Here's the markdown text that you can use for your README file on GitHub:
+
 ```markdown
 # Web Development Portfolio
 
-👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed a full-time 15-month training program in web development. Here's an overview of my skills and experiences:
+👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed 
+a full-time 15-month training program in web development. Here's an overview of my skills and experiences:
 
 ## Skills
 
