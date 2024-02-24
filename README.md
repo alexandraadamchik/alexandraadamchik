@@ -1,7 +1,7 @@
-# Web Development Portfolio
+# I am Web Developer
 
-👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed 
-a full-time 15-month training program in web development. Here's an overview of my skills and experiences:
+I completed a full-time 14-month web development course at DCI Digital Career Institute in Berlin. 
+Here, you'll find an overview of my skills and experiences:
 
 ## Skills
 
@@ -34,8 +34,8 @@ a full-time 15-month training program in web development. Here's an overview of 
 ## Education
 
 - **DCI Berlin:**
-  - Completed a full-time 15-month training program in Web Development.
+  - Completed a full-time 14-month training program in Web Development.
 
 ## Contact
 
-Let's connect! Reach out to me on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile). Excited to continue building amazing things! 🚀
+Let's connect! Reach out to me on [LinkedIn](www.linkedin.com/in/oleksandraadamchyk). Excited to continue building amazing things! 🚀
