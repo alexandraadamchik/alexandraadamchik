@@ -1,16 +1,34 @@
-### Hi there 👋
+Web Development Portfolio
+👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed a full-time 15-month training program in web development. Here's an overview of my skills and experiences:
 
-<!--
-**alexandraadamchik/alexandraadamchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Frontend:
 
-Here are some ideas to get you started:
+Proficient in HTML, CSS, and modern frameworks.
+Programming:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Solid foundation in JavaScript.
+React:
+
+Experience in Bootstraping React apps.
+Fullstack:
+
+Developed a MERN stack e-commerce application.
+Version Control:
+
+Used Git and version control for collaborative projects.
+Projects
+Portfolio Website:
+
+Showcasing skills and notable projects.
+Task Tracker (React):
+
+Dynamic task management application.
+MERN E-commerce App:
+
+Fullstack e-commerce application development.
+Education
+DCI Berlin:
+Completed a full-time 15-month training program in Web Development.
+Contact
+Let's connect! Reach out to me on LinkedIn or Twitter. Excited to continue building amazing things! 🚀
