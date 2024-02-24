@@ -1,5 +1,3 @@
-Certainly! Here's the markdown text that you can use for your README file on GitHub:
-
 ```markdown
 # Web Development Portfolio
 
