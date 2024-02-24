@@ -7,7 +7,8 @@ I graduated from the Web Development course at DCI Berlin.
 - Created a portfolio website to showcase acquired skills and completed projects.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N6OGFzcnVwM29pcHdrbWI2bzJsYzRiZjhzMW10bjFsdWd2NmdndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N6OGFzcnVwM29pcHdrbWI2bzJsYzRiZjhzMW10bjFsdWd2NmdndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"/>
+
 </div>
 
 
