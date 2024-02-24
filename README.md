@@ -1,4 +1,5 @@
-👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed a full-time 15-month web development program. Here's a snapshot of my skills and projects:
+👋 Hello! My name is Alexandra.
+I completed a full-time 14-month web development course at DCI Digital Career Institute in Berlin. Here, you'll find an overview of my skills and experiences:
 
 ## Skills
 
