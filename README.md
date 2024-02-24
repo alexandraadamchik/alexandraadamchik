@@ -1,4 +1,3 @@
-```markdown
 # Web Development Portfolio
 
 👋 Hello! I'm Alexandra, a recent graduate from DCI Digital Career Institute in Berlin, where I completed 
@@ -40,4 +39,3 @@ a full-time 15-month training program in web development. Here's an overview of 
 ## Contact
 
 Let's connect! Reach out to me on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile). Excited to continue building amazing things! 🚀
-```
