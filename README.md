@@ -6,8 +6,10 @@ I graduated from the Web Development course at DCI Berlin.
 - Utilized version control tools like Git for collaborative coding projects.
 - Created a portfolio website to showcase acquired skills and completed projects.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
 
 ## Contact
 
