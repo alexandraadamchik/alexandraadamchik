@@ -1,24 +1,11 @@
-👋 Hello! My name is Alexandra.
-I completed a full-time 14-month web development course at DCI Digital Career Institute in Berlin. Here, you'll find an overview of my skills and experiences:
+# My Web Development Summary
+I graduated from the Web Development course at DCI Berlin.
 
-## Skills
-
-- **Frontend:** HTML, CSS, modern frameworks.
-- **Programming:** JavaScript fundamentals.
-- **React:** Bootstraping React apps.
-- **Fullstack:** MERN stack e-commerce app.
-- **Version Control:** Git and collaboration.
-
-## Projects
-
-1. **Portfolio Website:** Showcase of skills.
-2. **Task Tracker (React):** Dynamic task management.
-3. **MERN E-commerce App:** Fullstack e-commerce.
-
-## Education
-
-- **DCI Berlin:** Full-time 15-month Web Development program.
+- Completed a 15-month full-time program covering HTML, CSS, JavaScript, React, and MERN stack.
+- Developed practical skills in building websites, dynamic applications, and a fullstack e-commerce project.
+- Utilized version control tools like Git for collaborative coding projects.
+- Created a portfolio website to showcase acquired skills and completed projects.
 
 ## Contact
 
-Let's connect! Find me on [LinkedIn](your_linkedin_profile) or [Twitter](your_twitter_profile). Excited to build amazing things! 🚀
+Let's connect! Reach out on [LinkedIn](www.linkedin.com/in/oleksandraadamchyk). Excited to contribute to innovative projects! 🚀
