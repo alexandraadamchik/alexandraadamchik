@@ -1,9 +1,14 @@
-I graduated from the Web Development course at Digital Career Institute, Berlin.
+# 👩‍💻 Web Developer | DCI Graduate | Alexandra 
 
-- Completed a 15-month full-time program covering HTML, CSS, JavaScript, React, and MERN stack.
-- Developed practical skills in building websites, dynamic applications, and a fullstack e-commerce project.
-- Utilized version control tools like Git for collaborative coding projects.
-- Created a portfolio website to showcase acquired skills and completed projects.
+🎓 Recent graduate from DCI, Berlin, with expertise in:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,javascript,react,nodejs,express,linux,git,github)](https://skillicons.dev)
+- HTML, CSS, JS, React, MERN stack.
+- Building websites, dynamic apps, and full-stack e-commerce projects.
 
+## Tech Stack:
+
+- Frontend: `HTML` `CSS` `SASS` `Bootstrap` `JS` `React`
+- Backend: `Express` `MongoDB` `Mongoose`
+- Tools: `Git` `GitHub` `Linux`
+
+🌐 Explore my [portfolio](#).
