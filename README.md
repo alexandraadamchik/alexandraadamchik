@@ -5,5 +5,5 @@ I graduated from the Web Development course at Digital Career Institute, Berlin.
 - Utilized version control tools like Git for collaborative coding projects.
 - Created a portfolio website to showcase acquired skills and completed projects.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma,html,css,bootstrap,javascript,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,javascript,react,nodejs,express,linux,git,github)](https://skillicons.dev)
 
