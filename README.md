@@ -1,6 +1,6 @@
-# 👩‍💻 Web Developer | DCI Graduate | Alexandra 
+#  Web Developer | DCI Graduate | Alexandra 
 
-🎓 Recent graduate from DCI, Berlin, with expertise in:
+ Recent graduate from DCI, Berlin, with expertise in:
 
 - HTML, CSS, JS, React, MERN stack.
 - Building websites, dynamic apps, and full-stack e-commerce projects.
