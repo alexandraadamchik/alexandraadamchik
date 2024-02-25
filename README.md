@@ -1,14 +1,15 @@
-# 👩‍💻 Web Developer | DCI Graduate | Alexandra 
+# 👩‍💻 Web Developer | DCI Graduate | Alexandra 🌟
 
 🎓 Recent graduate from DCI, Berlin, with expertise in:
 
-- HTML, CSS, JS, React, MERN stack.
-- Building websites, dynamic apps, and full-stack e-commerce projects.
+- 💻 HTML, CSS, JS, React, MERN stack.
+- 🚀 Building websites, dynamic apps, and full-stack e-commerce projects.
 
-## Tech Stack:
+## Tech Stack Magic ✨:
 
-- Frontend: HTML, CSS, SASS, Bootstrap, JS, React.
-- Backend: Express, MongoDB, Mongoose.
-- Tools: Git, GitHub, Linux.
+| **Frontend Wizardry** | **Backend Sorcery** | **Tools of the Trade** |
+| --- | --- | --- |
+| 🎨 HTML, CSS, SASS, Bootstrap, JS, React | ⚙️ Express, MongoDB, Mongoose | 🛠️ Git, GitHub, Linux |
 
-🌐 Explore my [portfolio](#).
+🌐 Explore my [portfolio](#) and let's turn your ideas into digital wonders! 💡✨
+
