@@ -9,9 +9,3 @@ I graduated from the Web Development course at DCI Berlin.
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma,html,css,bootstrap,javascript,react,nodejs,express&theme=light)](https://skillicons.dev)
 
-
-
-
-## Contact
-
-Let's connect! Reach out on [LinkedIn](www.linkedin.com/in/oleksandraadamchyk). Excited to contribute to innovative projects! 🚀
