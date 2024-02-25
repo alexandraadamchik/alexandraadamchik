@@ -1,6 +1,6 @@
-# 👩‍💻 Web Developer | DCI Graduate | Alexandra 🌟
+# 👩‍💻 Web Developer | Tech Explorer | Alexandra 🌟
 
-🎓 Recent graduate from DCI, Berlin, with expertise in:
+🎓 Recent graduate from DCI Digital Career Institute Berlin, with expertise in:
 
 - 💻 HTML, CSS, JS, React, MERN stack.
 - 🚀 Building websites, dynamic apps, and full-stack e-commerce projects.
