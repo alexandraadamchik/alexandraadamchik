@@ -7,7 +7,7 @@
 
 ## Tech Stack Magic ✨:
 
-| **Frontend Wizardry** | **Backend Sorcery** | **Tools of the Trade** |
+| **Frontend Wizardry** | **Backend Sorcery** | **Tools in My Kit** |
 | --- | --- | --- |
 | 🎨 HTML, CSS, SASS, Bootstrap, JS, React | ⚙️ Express, MongoDB, Mongoose | 🛠️ Git, GitHub, Linux |
 
