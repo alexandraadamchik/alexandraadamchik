@@ -1,4 +1,4 @@
-Web Developer | Tech Explorer 
+## Web Developer | Tech Explorer 
 
 Recent graduate from DCI Digital Career Institute Berlin, with expertise in:
 
