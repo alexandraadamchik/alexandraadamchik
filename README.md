@@ -7,7 +7,7 @@ Recent graduate from DCI Digital Career Institute Berlin, with expertise in:
 
 ## Tech Stack:
 
-| Frontend Wizardry | Backend | Tools in My Kit |
+| Frontend | Backend | Tools in My Kit |
 | --- | --- | --- |
 | HTML, CSS, SASS, Bootstrap, JS, React | Express, MongoDB, Mongoose | Git, GitHub, Linux |
 
