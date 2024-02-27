@@ -11,5 +11,5 @@ Recent graduate from DCI Digital Career Institute Berlin, with expertise in:
 | --- | --- | --- |
 | HTML, CSS, SASS, Bootstrap, JS, React | Express, MongoDB, Mongoose | Git, GitHub, Linux, Figma |
 
-🌐 Explore my [portfolio](#aleksandraadamchik.netlify.app) and let's turn your ideas into digital wonders! 💡✨
+🌐 Explore my [portfolio](#[aleksandraadamchik.netlify.app](https://aleksandraadamchik.netlify.app/]()) and let's turn your ideas into digital wonders! 💡✨
 
