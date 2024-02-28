@@ -13,3 +13,8 @@ Recent graduate from DCI Digital Career Institute Berlin, with expertise in:
 
 🌐 Explore my [portfolio](https://aleksandraadamchik.netlify.app/) and let's turn your ideas into digital wonders! 💡✨
 
+🔧 Always ready to code, design, and innovate! 🛠️
+
+👩‍💻 Passionate about creating seamless user experiences and pixel-perfect designs. 🎨
+
+📚 Lifelong learner and tech enthusiast. Let's stay curious and build amazing things together! 🌟
