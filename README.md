@@ -21,8 +21,6 @@ I'm Alexandra , a skilled web developer proficient in the MERN stack. I speciali
 
 Feel free to explore my [Portfolio](https://aleksandraadamchik.netlify.app/) [LinkedIn](https://www.linkedin.com/in/aleksandraadamchik/) [Instagram](https://www.instagram.com/) 
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
-
 
 
 
