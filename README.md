@@ -1,7 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
-I'm Alexandra, a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day and I eagerly look forward to contribute my skills. 
+I'm Alexandra <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="25">&nbsp;, a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day and I eagerly look forward to contribute my skills. 
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50"/>**Skills**<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50"/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="25">**Skills**
+
+
 <div>
 <img width="50" alt="html" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9">
 <img width="50" alt="css" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb">
@@ -15,9 +17,9 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 <img width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50"/>**Works**<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />**Works**
 
-Feel free to explore my <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20px" /> [Portfolio](https://aleksandraadamchik.netlify.app/) <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25">[LinkedIn](https://www.linkedin.com/in/aleksandraadamchik/)  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25"> [Instagram](https://www.instagram.com/) <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="25">[Twitter](https://twitter.com/home).
+Feel free to explore my [Portfolio](https://aleksandraadamchik.netlify.app/) [LinkedIn](https://www.linkedin.com/in/aleksandraadamchik/) [Instagram](https://www.instagram.com/) 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -25,6 +27,3 @@ Feel free to explore my <img src="https://user-images.githubusercontent.com/7403
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a>
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
-<br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
