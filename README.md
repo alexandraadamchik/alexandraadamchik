@@ -1,5 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
-I'm Alexandra , a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day and I eagerly look forward to contribute my skills. 
+
+<p align="center">
+I'm Alexandra, a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role, I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day, and I eagerly look forward to contributing my skills.
+</p> 
 
 <code><img width="30" alt="html" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9"></code>
 <code><img width="20" alt="css" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb"></code>
