@@ -18,6 +18,22 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+<h2 align="center">Reach me out on </h2>
+
+<p align="center">
+
+<a href="mailto: aleksandra.adamchik@gmail.com">
+ <img src="https://img.shields.io/badge/-aleksandra.adamchik-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ritikpr307@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/aleksandraadamchik/">
+ <img src="https://img.shields.io/badge/-aleksandraadamchik-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandraadamchik/"/>
+</a>
+ <a href="https://twitter.com/aleksandraadamchik">
+ <img src="https://img.shields.io/badge/-aleksandraadamchik-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/aleksandraadamchik"/>
+</a>
+</p>
+
 Feel free to explore my [Portfolio](https://aleksandraadamchik.netlify.app/) [LinkedIn](https://www.linkedin.com/in/aleksandraadamchik/) [Instagram](https://www.instagram.com/) 
 
 
