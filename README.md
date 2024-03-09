@@ -33,7 +33,23 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
  <img src="https://img.shields.io/badge/-aleksandraadamchik-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/aleksandraadamchik"/>
 </a>
 </p>
+<h2 align="center">
+  My Github Stats
+</h2>
+<br>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
+</p>
 
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p> 
+
+<p align = "center">
+ 
+</p> 
+<hr>
 Feel free to explore my [Portfolio](https://aleksandraadamchik.netlify.app/) [LinkedIn](https://www.linkedin.com/in/aleksandraadamchik/) [Instagram](https://www.instagram.com/) 
 
 
