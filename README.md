@@ -7,9 +7,9 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 <h2 align="center">Technology Stack </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
@@ -24,10 +24,10 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 <p align="center">
 
 <a href="mailto: aleksandra.adamchik@gmail.com">
- <img src="https://img.shields.io/badge/-aleksandra.adamchik-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-aleksandra.adamchik-black?style=flat-square&logo=Gmail&logoColor=red&link=mailto:aleksandra.adamchik@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/aleksandraadamchik/">
- <img src="https://img.shields.io/badge/-aleksandraadamchik-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandraadamchik/"/>
+ <img src="https://img.shields.io/badge/-aleksandraadamchik-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aleksandraadamchik/"/>
 </a>
  <a href="https://twitter.com/aleksandraadamchik">
  <img src="https://img.shields.io/badge/-aleksandraadamchik-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/aleksandraadamchik"/>
