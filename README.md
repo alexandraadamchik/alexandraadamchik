@@ -6,6 +6,8 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 
 <h2 align="center">Technology Stack </h2>
 
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue"/>
@@ -18,6 +20,8 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+
 
 <h2 align="center">Reach me out on </h2>
 
