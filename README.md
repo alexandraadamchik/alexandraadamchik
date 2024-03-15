@@ -8,6 +8,8 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 
 
 
+
+
 <p align="center">
  
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red"/>
