@@ -1,8 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
 <p align="center">
-I'm Alexandra, a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role, I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day, and I eagerly look forward to contributing my skills. Feel   free to explore my [Portfolio](https://aleksandraadamchik.netlify.app/)
-</p> 
+I'm Alexandra, a skilled web developer proficient in the MERN stack. I specialize in crafting websites, dynamic apps, and full-stack e-commerce projects. In my previous role, I applied mathematical concepts, analytics, and logical reasoning. Always having an interest in technology, I made the decision to study web development, aiming to integrate these interests into my job. Throughout a 1.5-year full-time course at DCI, I actively participated in practical projects for hypothetical clients. What I particularly enjoy about web development is the opportunity to apply my creative tendencies alongside analytical thinking. My dedication to skill development grows each day, and I eagerly look forward to contributing my skills. Feel   free to explore my <a href="https://aleksandraadamchik.netlify.app"> Portfolio </a>
 
 <h2 align="center">Technology Stack </h2>
 
@@ -53,22 +52,6 @@ I'm Alexandra, a skilled web developer proficient in the MERN stack. I specializ
 </a>
 </p>
 
-<h2 align="center">
-  My Github Stats
-</h2>
-<br>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" />
-</p>
-
-<p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p> 
-
-<p align = "center">
- 
-</p> 
 
 
 
